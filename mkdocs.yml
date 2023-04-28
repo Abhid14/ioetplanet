@@ -11,4 +11,5 @@ nav:
      - Installing Docker on NVIDIA Jetson: nvidia/docker-on-jetson-nano.md
 
 
-theme: material
+theme:
+  name: material
